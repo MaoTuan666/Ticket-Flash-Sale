@@ -1,3 +1,7 @@
+> ⚠️ **注意 / Note:**
+> This project is an experimental prototype generated with AI assistance. It may contain bugs and is not ready for production use.
+> （本项目是使用AI辅助生成的实验性原型。它可能包含Bug，尚未准备好用于生产环境。）
+> 
 # Dania抢票 (Ticket Flash Sale)
 
 基于 React Native + Android 无障碍服务的大麦APP自动抢票工具。通过 Accessibility Service 控制手机上的大麦APP，实现自动搜索演出、自动选座、自动提交订单。
